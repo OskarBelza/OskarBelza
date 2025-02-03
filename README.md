@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oskarbelza" alt="oskarbelza" /></a> </p>
 
-- 🔭 I’m currently working on [Smocza Brygada](https://github.com/OskarBelza/SmoczaBrygada.git)
+- 🔭 I’m currently working on my Bachelor Degree
 
 - 🌱 I’m currently learning **TensorFlow, OpenCV and ML Algorythims**
 
